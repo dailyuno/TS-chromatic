@@ -10408,6 +10408,11 @@ vfile@^4.0.0:
     unist-util-stringify-position "^2.0.0"
     vfile-message "^2.0.0"
 
+vite-plugin-turbosnap@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/vite-plugin-turbosnap/-/vite-plugin-turbosnap-1.0.1.tgz#3eacd101defcce59c8526d5162bf13e3513d247a"
+  integrity sha512-isVvISdXZyflIsXYrpTMBnyrtZq92ftohL8/xHi1H0kUwXIFDegqedX1kCKIQ04tjUkphB0cFbGzuvOGVwVTnQ==
+
 vite@^3.2.5:
   version "3.2.5"
   resolved "https://registry.yarnpkg.com/vite/-/vite-3.2.5.tgz#dee5678172a8a0ab3e547ad4148c3d547f90e86a"

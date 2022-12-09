@@ -26,3 +26,5 @@ jobs:
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
           onlyChanged: true
           autoAcceptChanges: true
+          traceChanged: true
+          untraced: package.json, yarn.lock, .github/*, .storybook/*,
